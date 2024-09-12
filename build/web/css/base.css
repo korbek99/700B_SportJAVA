@@ -1,0 +1,190 @@
+
+.capa{
+	height: 250px;
+	width: 650px;
+	background-color: #A9BCF5;
+	border: 2px #595959 solid;
+	margin: 2px;
+	/* ????? */
+	top: 100px;
+	left: 250px;
+	/*position: absolute;*/
+	/*   
+	overflow: auto;}*/
+}
+.capa2{
+	height: 70px;
+	width: 770px;
+	background-color: #A9BCF5;
+	border: 2px #595959 solid;
+	margin: 2px;
+	/* ????? */
+	top: 100px;
+	left: 250px;
+	/*position: absolute;*/
+	/*   
+	overflow: auto;   */     
+}
+.capa3{
+	height: 600px;
+	width: 100px;
+	background-color: #A9BCF5;
+	border: 2px #595959 solid;
+	margin: 2px;
+	/* ????? */
+	top: 100px;
+	left: 250px;
+	/*position: absolute;*/
+	/*   
+	overflow: auto;}*/
+}
+
+input[type="text"] { width:200px; 
+	font-family: Helvetica;
+	text-align: left; 
+	color: #6a6a6a; 
+	font-style: italic;
+	/*border: 1px #ff0000 dotted;*/ 
+	}
+
+/*input[type="button"] { width: 90px;
+	font-family: Arial;
+	color: #0000ff;
+	/*font-weight: bold;
+	}*/
+.boton{
+        font-size:10px;
+        font-family:Verdana,Helvetica;
+        font-weight:bold;
+        color:white;
+        background:#638cb5;
+        border:0px;
+        width:125px;
+        height:30px;
+       }
+.boton2{
+        font-size:10px;
+        font-family:Verdana,Helvetica;
+        font-weight:bold;
+        color:white;
+        background:#638cb5;
+        border:0px;
+        width:125px;
+        height:19px;
+       }
+a { font-size: 10pt; color: #393939; text-decoration: none; }
+a:hover { font-size: 10pt; color: #191919; text-decoration: underline; }
+
+body { background-color: #efefef; }
+
+#titulo { 
+	font-family: Arial; 
+	color: #0000ff; 
+	font-size: 16pt; 
+	}
+
+/* tama�os de letra */
+.texto08 { font-size: 8pt; }
+.texto09 { font-size: 9pt; }
+.texto10 { font-size: 10pt; }
+.texto11 { font-size: 11pt; }
+.texto12 { font-size: 12pt; }
+.texto13 { font-size: 13pt; }
+.texto14 { font-size: 14pt; }
+.texto15 { font-size: 15pt; }
+.texto16 { font-size: 16pt; }
+.texto17 { font-size: 17pt; }
+.text0o8 { font-size: 18pt; }
+.text019 { font-size: 19pt; }
+.text020 { font-size: 20pt; }
+
+.normal, .negrita { font-family: Arial, Helvetica; }
+.negrita { font-weight: bold; }
+.blanca { color: #ffffff; }
+.azul { color: #ff0000; }
+.roja { color: #0000ff; }
+
+.w10px { width: 10px; }
+.w20px { width: 20px; }
+.w30px { width: 30px; }
+.w40px { width: 40px; }
+.w50px { width: 50px; }
+.w60px { width: 60px; }
+.w70px { width: 70px; }
+.w80px { width: 80px; }
+.w90px { width: 90px; }
+.w100px { width: 100px; }
+.w110px { width: 110px; }
+.w120px { width: 120px; }
+.w130px { width: 130px; }
+.w140px { width: 140px; }
+.w150px { width: 150px; }
+.w200px { width: 200px; }
+.w250px { width: 250px; }
+.w300px { width: 300px; }
+.w350px { width: 350px; }
+.w400px { width: 400px; }
+.w450px { width: 450px; }
+.w500px { width: 500px; }
+.w550px { width: 550px; }
+.w600px { width: 600px; }
+.w650px { width: 650px; }
+.w700px { width: 700px; }
+.w750px { width: 750px; }
+.w800px { width: 800px; }
+.w850px { width: 850px; }
+
+.td{
+  background-color: #E6E6E6;  
+  border: #afafaf 2px solid;
+ 
+  margin: 2px;
+}
+.td2{
+  background-color: #E6E6E6;  
+  border: #afafaf 2px solid;
+  text-align: left;
+  margin: 2px;
+}
+.tabla {
+	width: 800px;
+	background-color: #A9D0F5;
+	border: #afafaf 2px solid;
+	margin: 2px;
+	-moz-border-radius:10px;   
+	-webkit-border-radius:10px;
+	}
+.tabla2 {
+	width: 800px;
+	background-color: #F5DA81;
+	border: #afafaf 2px solid;
+	margin: 2px;
+	-moz-border-radius:10px;   
+	-webkit-border-radius:10px;
+	} 
+ .tabla3 {
+	width: 300px;
+	background-color: #EFEFFB;
+	border: #afafaf 2px solid;
+	margin: 2px;
+	-moz-border-radius:10px;   
+	-webkit-border-radius:10px;
+	}               
+
+.cabecera { background-color: #E0F2F7; text-align: center; }
+.fila { background-color: #ffffff; }
+.filaalt { background-color: #efefef; }
+.fila:hover { background-color: #5f5f5f; color: #fff; }
+.filaalt:hover { background-color: #5f5f5f; color: #fff; }
+
+.cen { text-align: center; }
+.der { text-align: right; }
+.izq { text-align: left; }
+.jus { text-align: justify; }
+.top { vertical-align: top; }
+.mid { vertical-align: middle; }
+.bot { vertical-align: bottom; }
+
+
+
+
